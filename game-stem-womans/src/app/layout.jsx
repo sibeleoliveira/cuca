@@ -4,7 +4,7 @@ export default function RootLayout({ children }) {
     <html
       lang="pt-br"
     >
-      <body className="bg-white">{children}</body>
+      <body>{children}</body>
     </html>
   );
 }
