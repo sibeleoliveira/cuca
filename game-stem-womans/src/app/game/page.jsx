@@ -139,9 +139,9 @@ export default function Game() {
     <div className="min-h-screen bg-[#f5f1ed] relative">
 
       {/* HEADER */}
-      <div className="absolute top-0 left-0 w-full h-20 flex justify-baseline gap-5 flex-row px-8 py-4">
+      <div className="absolute top-2 left-0 w-full h-20 flex justify-baseline gap-5 flex-row px-8 py-4">
 
-        <img src="/logo.png" className="h-40 self-center" />
+        <img src="/logo-dm-3.svg" className="h-30 self-center" />
 
         <div className="bg-white self-center px-4 py-2 rounded-xl shadow">
           Vez de: <b>{players[turn].name}</b>

@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <div className="h-screen w-screen relative overflow-hidden bg-[#1a0d08] text-white">
       <img
-        src="/logo.png"
+        src="/logo-dm-3.svg"
         alt="Logo DCOMP Mulheres Topo"
         className="absolute top-0 left-30 transform -translate-x-1/2 w-45 h-45 drop-shadow-[0_25px_80px_rgba(0,0,0,0.8)] z-20 object-contain"
       />
